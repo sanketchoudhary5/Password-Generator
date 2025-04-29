@@ -11,18 +11,6 @@ The **Password Generator** is built with simplicity and functionality in mind. I
 
 Whether you're securing your social media accounts, email, or sensitive financial information, this tool is an ideal solution to enhance your digital security. Additionally, its intuitive interface ensures that even non-technical users can easily generate secure passwords in just a few clicks.
 
-
-## Acknowledgements
-
- -We would like to acknowledge:
-
-The open-source community for inspiring the development of this tool.
-
-Online tutorials and resources that guided the implementation.
-
-Users who provided feedback to improve the tool’s functionality.
-
-
 ## Deployment
 
 The Password Generator is deployed and ready to use. Access it here: Password Generator (Replace # with the actual deployment URL).
@@ -38,7 +26,7 @@ Use the interface to generate passwords instantly.
 
 How It Works
 
--Set Preferences:
+- Set Preferences:
 
 Choose the desired password length.
 Select options to include uppercase letters, lowercase letters, numbers, and special characters.
@@ -47,11 +35,11 @@ Generate Password:
 Click the "Generate Password" button to create a secure password.
 The generated password is displayed instantly.
 
--Copy Password:
+- Copy Password:
 
 Use the "Copy" button to save the password to your clipboard for easy use.
 
--File Structure
+- File Structure
 
 index.html: The core structure of the application.
 styles.css: Handles the design and layout of the tool.
